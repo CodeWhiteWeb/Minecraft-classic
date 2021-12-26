@@ -11,8 +11,7 @@ Clone the repo and run start-server.bat, or run http-server on the working direc
 Then, connect to the server using localhost:8080 in your preferred browser.
 If the server doesn't start try with python localhost server.
  - If Python version returned above is 3.X
- - On Windows, try "python -m http.server" or "py -3 -m http.server"
-`python3 -m http.server` or `python -m http.server`
+ - On Windows, try `python -m http.server` or `py -3 -m http.server`
  - If Python version returned above is 2.X
 `python -m SimpleHTTPServer`
 
